@@ -1,11 +1,5 @@
-### Hi there 👋
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Kassi, a backend developer 👨‍💻 </div>  
+### <div align="center">Hi there 👋 I'm Kassi, a backend developer 👨‍💻 </div>  
 
   
 - 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)   
@@ -56,7 +50,7 @@
 
 
 
-### DevOps  
+### Interests  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -90,18 +84,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kassandraleyba&&style=flat-square" align="center" />
 </div>  
@@ -109,9 +91,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"></div>
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
