@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
   
 
-- ❓ Let's chat about coding and hobbies/interests! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
+- ❓ Let's chat about coding and hobbies! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
   
 
 <br/>  
