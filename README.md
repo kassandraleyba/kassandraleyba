@@ -1,5 +1,5 @@
 
-### <div align="center">Hi there 👋 I'm Kassi, a backend software engineer 👨‍💻 </div>  
+### <div align="center">Hi there 👋 I'm Kassi, a software engineer 👨‍💻 </div>  
 
   
 - 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)   
@@ -8,10 +8,7 @@
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
   
 
-- ❓ Ask me about anything related to   
-  
-
-- ⚡ Fun fact:   
+- ❓ Let's chat about coding and hobbies/interests! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
   
 
 <br/>  
