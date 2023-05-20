@@ -1,5 +1,5 @@
 
-### <div align="center">Hi there 👋 I'm Kassi, a software engineer 👨‍💻 </div>  
+### <div align="center">Hi there 👋 I'm Kassi, a software engineer 👩‍💻  </div>  
 
   
 - 🔭 I’m currently working on [Inner Worlds](https://github.com/Inner-Worlds)   
