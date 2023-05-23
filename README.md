@@ -77,21 +77,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kassandraleyba&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kassandraleyba&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  
+  <br/>
+  
+  <a href="https://github.com/kassandraleyba/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandraleyba&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>  
 
 <br/>  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kassandraleyba&&style=flat-square" align="center" />
 </div> 
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/kassandraleyba/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandraleyba&layout=donut" alt="Top Languages" />
-  </a>
-</div>
 
 <br/>  
 
