@@ -82,9 +82,16 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kassandraleyba&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=kassandraleyba&&style=flat-square" align="center" />
+</div> 
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/kassandraleyba/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandraleyba&layout=donut" alt="Top Languages" />
+  </a>
+</div>
 
 <br/>  
 
