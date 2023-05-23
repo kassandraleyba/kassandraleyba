@@ -65,16 +65,16 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me 
 <div align="center">
-<a href="https://github.com/kassandraleyba" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/kassandra-leyba" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
   
+<a href="mailto:kassandra.leyba@gmail.com" target="_blank">
+   <img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <br/>  
 
@@ -82,12 +82,6 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kassandraleyba&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-  
-  <br/>
-  
-  <a href="https://github.com/kassandraleyba/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandraleyba&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
 </div>  
 
 <br/>  
