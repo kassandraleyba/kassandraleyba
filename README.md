@@ -11,9 +11,6 @@
 - ❓ Let's chat about coding and hobbies! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
 
 
-- ✨ [GitHub Portfolio](http://isradeleon.com/github-portfolio.html?user=kassandraleyba#repositories)
-  
-
 <br/>  
 
 
