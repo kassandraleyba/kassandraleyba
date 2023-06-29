@@ -2,7 +2,9 @@
 ### <div align="center">Hi there 👋 I'm Kassi, a software engineer 👩‍💻  </div>  
 
   
-- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds)   
+- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds)
+
+- ✨ You can view the website [here](https://inner-worlds-ui.vercel.app/) 
   
 
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
