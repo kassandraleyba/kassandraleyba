@@ -1,9 +1,9 @@
 <br>
-
+ 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=check+it+out" alt="Typing SVG" width="33%">
-    <img src="https://readme-typing-svg.demolab.com/?lines=check+it+out" alt="Typing SVG" width="33%">
-    <img src="https://readme-typing-svg.demolab.com/?lines=check+it+out" alt="Typing SVG" width="33%">
+    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
+    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
+    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
 </p>
 
 
