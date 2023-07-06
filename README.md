@@ -5,8 +5,9 @@
 </p>
 
 
-### <div align="center">Hi there 👋 I'm Kassi, a software engineer 👩‍💻  </div>  
+ ### <div align="center"> Hi there 👋 I'm Kassi, a software engineer 👩‍💻 </div>
 
+<table align="center"><tr><td>
   
 - 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds)
 
@@ -17,7 +18,7 @@
   
 
 - ❓ Let's chat about coding and hobbies! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
-
+</td></tr></table> 
 
 <br/>  
 
