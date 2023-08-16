@@ -12,8 +12,6 @@
 <table align="center"><tr><td>
   
 - 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds) and [React Select](https://github.com/kassandraleyba/react-select)
-
-- ✨ You can view the website [here](https://inner-worlds-ui.vercel.app/)!
   
 
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
