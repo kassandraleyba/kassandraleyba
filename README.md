@@ -1,11 +1,5 @@
 <br>
  
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
-    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
-    <img src="https://readme-typing-svg.demolab.com/?lines=welcome+to+my+page+👾" alt="Typing SVG" width="33%">
-</p>
-
 
  ### <div align="center"> Hi there 👋 I'm Kassi, a software engineer 👩‍💻 </div>
 
