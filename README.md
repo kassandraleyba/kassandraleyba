@@ -7,7 +7,7 @@
 
 - 🌞 Current ``Intern`` at ``BAS`` & ``Contributor`` to ``Ruby for Good``
   
-- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds) and [React Select](https://github.com/kassandraleyba/react-select)
+- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds)
   
 
 - 🌱 I’m currently learning React, JavaScript, TypeScript  
