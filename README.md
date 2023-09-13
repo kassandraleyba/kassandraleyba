@@ -5,7 +5,7 @@
 
 <table align="center"><tr><td>
 
-- 🌞 Current ``Intern`` at ``Bell Automation Systems`` & ``Contributor`` to ``Ruby for Good``
+- 🌞 Current ``Intern`` at ``BAS`` & ``Contributor`` to ``Ruby for Good``
   
 - 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds) and [React Select](https://github.com/kassandraleyba/react-select)
   
