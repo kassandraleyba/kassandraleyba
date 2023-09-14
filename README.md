@@ -1,7 +1,4 @@
-<br>
- 
-
- ### <div align="center"> Hi there 👋 I'm Kassi, a software engineer 👩‍💻 </div>
+<br/>
 
 <table align="center"><tr><td>
 
