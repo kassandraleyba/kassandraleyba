@@ -1,19 +1,3 @@
-<br/>
-
-<table align="center"><tr><td>
-
-- 🌞 Current ``Intern`` at ``BAS`` & ``Contributor`` to ``Ruby for Good``
-  
-- 🔭 Recently Finished: [Inner Worlds](https://github.com/Inner-Worlds)
-  
-
-- 🌱 I’m currently learning React, JavaScript, TypeScript  
-  
-
-- ❓ Let's chat about coding and hobbies! 🪴🏃‍♀️🚴📚🍻☕️🎶✨ 
-</td></tr></table> 
-
-<br/>  
 
 
 ## My Skill Set  
