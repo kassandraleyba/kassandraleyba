@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome,+I'm+Kassi!+[:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+[:)](https://git.io/typing-svg)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
